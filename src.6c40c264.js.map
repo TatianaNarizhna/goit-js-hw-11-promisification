@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":[],"mappings":";;;AAGA,aAHA,QAAA,oBACA,QAAA,mBACA,QAAA,mBACA,QAAA","file":"src.6c40c264.js","sourceRoot":"..\\src","sourcesContent":["import './sass/main.scss';\r\nimport './code.js/task1';\r\nimport './code.js/task2';\r\nimport './code.js/task3';\r\n"]}
