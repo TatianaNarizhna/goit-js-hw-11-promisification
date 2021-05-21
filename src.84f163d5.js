@@ -9,4 +9,4 @@ function t(t,o){return a(t)||e(t,o)||r(t,o)||n()}function n(){throw new TypeErro
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./code.js/task1"),require("./code.js/task2"),require("./code.js/task3");
 },{"./sass/main.scss":"clu1","./code.js/task1":"ThKP","./code.js/task2":"VQB5","./code.js/task3":"dG4R"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-11-promisification/src.1ad1d0f7.js.map
+//# sourceMappingURL=/goit-js-hw-11-promisification/src.84f163d5.js.map
